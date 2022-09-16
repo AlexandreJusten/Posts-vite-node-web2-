@@ -1,0 +1,17 @@
+.main{
+  max-width: 21.310602024507194vw;  
+  min-width: 21.310602024507194vw;
+  margin-left: 2%;
+  margin-top: 2%;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  box-shadow: 0 0 0 0.4rem rgba(162, 9, 222, 0.25);
+  border: 1px solid #d034cb;
+  position: fixed;
+}
+.bt{
+  padding: 2%;
+}
+
